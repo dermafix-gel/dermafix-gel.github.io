@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dermafix-gel.github.io/sitemap.xml
